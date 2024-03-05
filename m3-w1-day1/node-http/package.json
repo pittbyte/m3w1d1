@@ -1,0 +1,16 @@
+{
+  "name": "node-http",
+  "version": "1.0.0",
+  "description": "Node HTTP Module",
+  "main": "node-example1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Crystal Pittman",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "m3w1d1-1"
+  }
+}
